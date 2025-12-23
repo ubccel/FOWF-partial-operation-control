@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+
+# VS
+.vscode/
+
+# WandB
+wandb/
+runs/
+
+# scripts
+tests.py
+wake_steering_benefit.py
